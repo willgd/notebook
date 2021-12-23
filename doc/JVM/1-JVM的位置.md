@@ -9,7 +9,7 @@
 
 JNI Java本地接口
 native method library 本地方法库
-excute执行引擎
+execute执行引擎
 
 类是抽象的，new出来的对象是具体的。
 
